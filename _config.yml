@@ -1,7 +1,6 @@
 # Site settings
-title: slim
-baseurl: "/slim"
-url: "http://syaning.com"
+title: Naihui Zhou
+url: "http://ashleyzhou972.github.io"
 
 # Build settings
 kramdown:
