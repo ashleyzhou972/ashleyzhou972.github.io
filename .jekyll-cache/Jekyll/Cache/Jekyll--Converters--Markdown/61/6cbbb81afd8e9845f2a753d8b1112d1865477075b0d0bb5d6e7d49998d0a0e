@@ -1,17 +1,17 @@
-I"÷<div style="float:left; width: 70%">
+I"5 <div style="float:left; width: 67%">
 <h2>Education</h2>
 <ul>
   <li><b>PhD</b> Double major, <a href="http://www.iastate.edu/">Iowa State University</a>, 2020</li>
   <ul>
-  <li> Bioinformatics and Computational Biology (BCB)<br />Advisor: Iddo Friedberg</li>
-  <li> Statistics<br />Advisor: Mark S. Kaiser</li>
+  	<li> Bioinformatics and Computational Biology (BCB)<br />Advisor: Iddo Friedberg</li>
+  	<li> Statistics<br />Advisor: Mark S. Kaiser</li>
   </ul>
-  <li><b>MA</b> Statistics, <a href="http://www.columbia.edu/">Columbia University,</a> 2014</li>
-  <li><b>BSc</b> Information and Computing Science, <a href="http://www.bjtu.edu.cn/">Beijing Jiaotong University,</a> 2013</li>
+  <li><b>MA</b> Statistics, <a href="http://www.columbia.edu/">Columbia University</a>, 2014</li>
+  <li><b>BSc</b> Information and Computing Science, <a href="http://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, 2013</li>
 </ul>
 </div>
 
-<div style="float:right; width: 30%">
+<div style="float:right; width: 33%">
 <h2>Contact</h2>
 <ul>
   <li> ashley.n.zhou@gmail.com</li>
@@ -33,14 +33,14 @@
 <h2 id="open-source-software">Open Source Software</h2>
 <ul>
   <li><a href="https://github.com/ashleyzhou972/PhiMRF">PhiMRF</a>, an R package for spatial dependency using a Poisson Hierarchical Markov Random Field model for count data.</li>
-  <li><a href="https://github.com/ashleyzhou972/CAFA_assessment_tool">CAFA Assessment Tool</a>, Assessment of protein function prediction using precision-recall for the <a href="https://www.biofunctionprediction.org/cafa/">CAFA challenge</a>.</li>
+  <li><a href="https://github.com/ashleyzhou972/CAFA_assessment_tool">CAFA Assessment Tool</a>, assessment of protein function prediction using precision-recall for the <a href="https://www.biofunctionprediction.org/cafa/">CAFA challenge</a>.</li>
 </ul>
 
 <h2 id="experience">Experience</h2>
 <h3 id="research-assisstant-iowa-state-university">Research Assisstant, Iowa State University</h3>
 <ul>
   <li>
-    <p><strong>2017- 2019</strong> Exploring the 3D spatial dependency of gene expression using Markov Random Field models</p>
+    <p><strong>2017- 2019</strong> Exploring the spatial dependency of gene expression using Markov Random Field models</p>
 
     <ul>
       <li>
@@ -50,7 +50,7 @@
         <p>Implemented a double Metropolis-Hastings MCMC process for the PhiMRF model to derive posterior estimates of spatial dependency parameters.</p>
       </li>
       <li>
-        <p>Develped an R package for the PhiMRF model, featuring fast and parallel computation, utilizing sparse matrix formats, OpenMP and Lapack routines.</p>
+        <p>Develped an R package for the PhiMRF model, featuring fast and parallel computation, sparse matrix formats, OpenMP and Lapack routines.</p>
       </li>
     </ul>
   </li>
@@ -60,10 +60,10 @@
         <p>Organized the third Critical Assessment of Functional Annotation (CAFA) challenge for the prediction of protein functions, with participants from 69 laboratories across the globe and hundreds of submissions.</p>
       </li>
       <li>
-        <p>Evaluated the performance the CAFA structured output predictions using precision-recall based metrics, and other analysis based on these predictions.</p>
+        <p>Evaluated the performance the CAFA structured output predictions using precision-recall based metrics, and other analysis, such as similarity measures based on these predictions.</p>
       </li>
       <li>
-        <p>Developed a Python tool for the precision-recall evaluation.</p>
+        <p>Developed a Python tool for precision-recall evaluation for structured-output prediction tasks.</p>
       </li>
     </ul>
   </li>
@@ -84,7 +84,7 @@
         <p>Analyzed the use of beta blockers in the health records of the New York City MetroPlus insurance population.</p>
       </li>
       <li>
-        <p>Applied a zero-inflated Poisson regression model for the effects of co-morbidities, socioeconomic factors on hospital admission rates.</p>
+        <p>Applied a zero-inflated Poisson regression model for the effects of co-morbidities, socioeconomic factors on hospital admission rates using SAS</p>
       </li>
     </ul>
   </li>
@@ -117,13 +117,13 @@
   </li>
 </ul>
 
+<div style="page-break-after: always;"></div>
 <h2 id="awards">Awards</h2>
 <ul>
   <li>Lora and Russ Talbot Graduate Fellowship in Veterinary Medicine, College of Veterinary Medicine, Iowa State University, 2019</li>
   <li>F. Wendell Miller Scholarship, Graduate College, Iowa State University, 2015- 2018</li>
 </ul>
 
-<div style="page-break-after: always;"></div>
 <h2 id="skills">Skills</h2>
 
 <ul>

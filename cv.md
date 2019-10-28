@@ -5,20 +5,20 @@ output:
     df_print: paged
 ---
 
-<div style="float:left; width: 70%">
+<div style="float:left; width: 67%">
 <h2>Education</h2>
 <ul>
   <li><b>PhD</b> Double major, <a href="http://www.iastate.edu/">Iowa State University</a>, 2020</li>
   <ul>
-  <li> Bioinformatics and Computational Biology (BCB)<br>Advisor: Iddo Friedberg</li>
-  <li> Statistics<br>Advisor: Mark S. Kaiser</li>
+  	<li> Bioinformatics and Computational Biology (BCB)<br>Advisor: Iddo Friedberg</li>
+  	<li> Statistics<br>Advisor: Mark S. Kaiser</li>
   </ul>
-  <li><b>MA</b> Statistics, <a href="http://www.columbia.edu/">Columbia University,</a> 2014</li>
-  <li><b>BSc</b> Information and Computing Science, <a href="http://www.bjtu.edu.cn/">Beijing Jiaotong University,</a> 2013</li>
+  <li><b>MA</b> Statistics, <a href="http://www.columbia.edu/">Columbia University</a>, 2014</li>
+  <li><b>BSc</b> Information and Computing Science, <a href="http://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, 2013</li>
 </ul>
 </div>
 
-<div style="float:right; width: 30%">
+<div style="float:right; width: 33%">
 <h2>Contact</h2>
 <ul>
   <li> ashley.n.zhou@gmail.com</li>
@@ -39,25 +39,25 @@ output:
 
 ## Open Source Software
  - [PhiMRF](https://github.com/ashleyzhou972/PhiMRF), an R package for spatial dependency using a Poisson Hierarchical Markov Random Field model for count data.
- - [CAFA Assessment Tool](https://github.com/ashleyzhou972/CAFA_assessment_tool), Assessment of protein function prediction using precision-recall for the [CAFA challenge](https://www.biofunctionprediction.org/cafa/).
+ - [CAFA Assessment Tool](https://github.com/ashleyzhou972/CAFA_assessment_tool), assessment of protein function prediction using precision-recall for the [CAFA challenge](https://www.biofunctionprediction.org/cafa/).
 
 
 ## Experience
 ### Research Assisstant, Iowa State University
- - **2017- 2019** Exploring the 3D spatial dependency of gene expression using Markov Random Field models
+ - **2017- 2019** Exploring the spatial dependency of gene expression using Markov Random Field models
  
     - Developed a Poisson-lognormal mixed autoregressive model (PhiMRF) to investigate the spatial dependency of RNA-seq data in light of the 3D chromosomal organization in human cells.
     
     - Implemented a double Metropolis-Hastings MCMC process for the PhiMRF model to derive posterior estimates of spatial dependency parameters.
     
-    - Develped an R package for the PhiMRF model, featuring fast and parallel computation, utilizing sparse matrix formats, OpenMP and Lapack routines.
+    - Develped an R package for the PhiMRF model, featuring fast and parallel computation, sparse matrix formats, OpenMP and Lapack routines.
   
  - **2016- 2019** Critical Assessment of protein function prediction
     - Organized the third Critical Assessment of Functional Annotation (CAFA) challenge for the prediction of protein functions, with participants from 69 laboratories across the globe and hundreds of submissions.
     
-    - Evaluated the performance the CAFA structured output predictions using precision-recall based metrics, and other analysis based on these predictions.
+    - Evaluated the performance the CAFA structured output predictions using precision-recall based metrics, and other analysis, such as similarity measures based on these predictions.
     
-    - Developed a Python tool for the precision-recall evaluation.
+    - Developed a Python tool for precision-recall evaluation for structured-output prediction tasks.
 
  
  - **2016- 2018** Crowdsourcing image analysis for plant phenomics
@@ -69,7 +69,7 @@ output:
  - **2014- 2015** Effects of Beta Blockers on hospital admission rates and cost
     - Analyzed the use of beta blockers in the health records of the New York City MetroPlus insurance population.
     
-    - Applied a zero-inflated Poisson regression model for the effects of co-morbidities, socioeconomic factors on hospital admission rates.
+    - Applied a zero-inflated Poisson regression model for the effects of co-morbidities, socioeconomic factors on hospital admission rates using SAS
     
 ### Grader, Columbia University
   - **2014** STAT W1111, Introduction to Statistics
@@ -88,12 +88,12 @@ output:
  
  - Effects of Beta Blockers on Hospital Admission Rates and Cost (Talk). **Joint Statistical Meeting**, Seattle, WA, USA, 2015
  
+<div style="page-break-after: always;"></div>
 ## Awards
  - Lora and Russ Talbot Graduate Fellowship in Veterinary Medicine, College of Veterinary Medicine, Iowa State University, 2019
  - F. Wendell Miller Scholarship, Graduate College, Iowa State University, 2015- 2018
 
 
-<div style="page-break-after: always;"></div>
 ## Skills
 
  - Reproducible research, statistical computing, hierarchical models, Markov random fields, Bayesian methods, Markov chain Monte Carlo, generalized linear models, data mining, machine learning, parallel computing, R package development
