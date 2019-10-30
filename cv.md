@@ -35,12 +35,12 @@ output:
   <li>Leng, Y., Kou, C., <b>Zhou, N.</b>, Li, Q., Liang, Y., Xu, Z. and Chen, S., 2012. Evaluation on transfer efficiency at integrated transport terminals through multilevel grey evaluation. Procedia-Social and Behavioral Sciences, 43, pp.587-594. <a ref="https://doi.org/10.1016/j.sbspro.2012.04.132">https://doi.org/10.1016/j.sbspro.2012.04.132</a></li>
 </ul>
 
-<div style="page-break-after: always;"></div>
 
 ## Open Source Software
  - [PhiMRF](https://github.com/ashleyzhou972/PhiMRF), an R package for spatial dependency using a Poisson Hierarchical Markov Random Field model for count data.
  - [CAFA Assessment Tool](https://github.com/ashleyzhou972/CAFA_assessment_tool), assessment of protein function prediction using precision-recall for the [CAFA challenge](https://www.biofunctionprediction.org/cafa/).
 
+<div style="page-break-after: always;"></div>
 
 ## Experience
 ### Research Assisstant, Iowa State University
@@ -63,7 +63,6 @@ output:
  - **2016- 2018** Crowdsourcing image analysis for plant phenomics
     - Analyzed image labelling performance of different crowdsourced groups using Generalized Linear Mixed Effects model on SAS.
 
-<div style="page-break-after: always;"></div>
 
 ### Intern, New York City Health and Hospitals Corporation
  - **2014- 2015** Effects of Beta Blockers on hospital admission rates and cost
@@ -74,6 +73,7 @@ output:
 ### Grader, Columbia University
   - **2014** STAT W1111, Introduction to Statistics
 
+<div style="page-break-after: always;"></div>
 
 ## Conference Presentations
  - Using Markov Random Field to Model Gene Expression in the 3D Genome (Talk, Travel Fellowship). **Great Lakes Bioinformatics (GLBIO)**, Madison, WI, USA, 2019. 
@@ -88,7 +88,8 @@ output:
  
  - Effects of Beta Blockers on Hospital Admission Rates and Cost (Talk). **Joint Statistical Meeting**, Seattle, WA, USA, 2015
  
-<div style="page-break-after: always;"></div>
+<!--<div style="page-break-after: always;"></div>-->
+
 ## Awards
  - Lora and Russ Talbot Graduate Fellowship in Veterinary Medicine, College of Veterinary Medicine, Iowa State University, 2019
  - F. Wendell Miller Scholarship, Graduate College, Iowa State University, 2015- 2018
