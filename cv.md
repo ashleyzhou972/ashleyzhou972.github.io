@@ -76,7 +76,9 @@ output:
 <div style="page-break-after: always;"></div>
 
 ## Conference Presentations
- - Using Markov Random Field to Model Gene Expression in the 3D Genome (Talk, Travel Fellowship). **Great Lakes Bioinformatics (GLBIO)**, Madison, WI, USA, 2019. 
+ - Exploring the 3D spatial dependency of gene expression using Markov Random Fields (Talk). **Genome Informatics**, Cold Spring Harbor, NY, USA, 2019
+
+ - Using Markov Random Field to Model Gene Expression in the 3D Genome (Talk, Travel Fellowship). **Great Lakes Bioinformatics**, Madison, WI, USA, 2019. 
  
  - Updates on CAFA3 and CAFA3.14 (Talk, Travel Fellowship). Using Markov Random Field to Model Gene Expression in the 3D Genome (Poster). **Intelligent Systems for Molecular Biology (ISMB)**, Chicago, IL, USA, 2018.
  

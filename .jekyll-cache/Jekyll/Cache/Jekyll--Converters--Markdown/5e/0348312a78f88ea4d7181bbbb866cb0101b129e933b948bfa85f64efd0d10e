@@ -1,0 +1,148 @@
+I"� <div style="float:left; width: 67%">
+<h2>Education</h2>
+<ul>
+  <li><b>PhD</b> Double major, <a href="http://www.iastate.edu/">Iowa State University</a>, 2020</li>
+  <ul>
+  	<li> Bioinformatics and Computational Biology (BCB)<br />Advisor: Iddo Friedberg</li>
+  	<li> Statistics<br />Advisor: Mark S. Kaiser</li>
+  </ul>
+  <li><b>MA</b> Statistics, <a href="http://www.columbia.edu/">Columbia University</a>, 2014</li>
+  <li><b>BSc</b> Information and Computing Science, <a href="http://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, 2013</li>
+</ul>
+</div>
+
+<div style="float:right; width: 33%">
+<h2>Contact</h2>
+<ul>
+  <li> ashley.n.zhou@gmail.com</li>
+  <li><a href="http://ashleyzhou972.github.io"> ashleyzhou972.github.io</a></li>
+  <li><a href="http://github.com/ashleyzhou972"> github.com/ashleyzhou972</a></li>
+</ul>
+</div>
+
+<h2 style="clear: both">Publications</h2>
+<ul>
+  <li><b>Zhou, N.</b>, Jiang, Y., Bergquist, T.R., Lee, A.J., Kacsoh, B.Z., Crocker, A.W., Lewis, K.A., Georghiou, G., Nguyen, H.N., Hamid, M.N., Davis, L. et al., 2019. The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens. bioRxiv, p.653105. <a ref="https://doi.org/10.1101/653105 ">https://doi.org/10.1101/653105 </a> (Accepted by Genome Biology)</li>
+  <li>Kacsoh, B.Z., Barton, S., Jiang, Y., <b>Zhou, N.</b>, Mooney, S.D., Friedberg, I., Radivojac, P., Greene, C.S. and Bosco, G., 2019. New Drosophila long-term memory genes revealed by assessing computational function prediction methods. G3: Genes, Genomes, Genetics, 9(1), pp.251-267. <a ref="https://doi.org/10.1534/g3.118.200867">https://doi.org/10.1534/g3.118.200867</a></li>
+  <li><b>Zhou, N.</b>, Siegel, Z.D., Zarecor, S., Lee, N., Campbell, D.A., Andorf, C.M., Nettleton, D., Lawrence-Dill, C.J., Ganapathysubramanian, B., Kelly, J.W. and Friedberg, I., 2018. Crowdsourcing image analysis for plant phenomics to generate ground truth data for machine learning. PLoS computational biology, 14(7), p.e1006337. <a ref="https://doi.org/10.1371/journal.pcbi.1006337">https://doi.org/10.1371/journal.pcbi.1006337</a></li>
+  <li>Leng, Y., Kou, C., <b>Zhou, N.</b>, Li, Q., Liang, Y., Xu, Z. and Chen, S., 2012. Evaluation on transfer efficiency at integrated transport terminals through multilevel grey evaluation. Procedia-Social and Behavioral Sciences, 43, pp.587-594. <a ref="https://doi.org/10.1016/j.sbspro.2012.04.132">https://doi.org/10.1016/j.sbspro.2012.04.132</a></li>
+</ul>
+
+<h2 id="open-source-software">Open Source Software</h2>
+<ul>
+  <li><a href="https://github.com/ashleyzhou972/PhiMRF">PhiMRF</a>, an R package for spatial dependency using a Poisson Hierarchical Markov Random Field model for count data.</li>
+  <li><a href="https://github.com/ashleyzhou972/CAFA_assessment_tool">CAFA Assessment Tool</a>, assessment of protein function prediction using precision-recall for the <a href="https://www.biofunctionprediction.org/cafa/">CAFA challenge</a>.</li>
+</ul>
+
+<div style="page-break-after: always;"></div>
+
+<h2 id="experience">Experience</h2>
+<h3 id="research-assisstant-iowa-state-university">Research Assisstant, Iowa State University</h3>
+<ul>
+  <li>
+    <p><strong>2017- 2019</strong> Exploring the spatial dependency of gene expression using Markov Random Field models</p>
+
+    <ul>
+      <li>
+        <p>Developed a Poisson-lognormal mixed autoregressive model (PhiMRF) to investigate the spatial dependency of RNA-seq data in light of the 3D chromosomal organization in human cells.</p>
+      </li>
+      <li>
+        <p>Implemented a double Metropolis-Hastings MCMC process for the PhiMRF model to derive posterior estimates of spatial dependency parameters.</p>
+      </li>
+      <li>
+        <p>Develped an R package for the PhiMRF model, featuring fast and parallel computation, sparse matrix formats, OpenMP and Lapack routines.</p>
+      </li>
+    </ul>
+  </li>
+  <li><strong>2016- 2019</strong> Critical Assessment of protein function prediction
+    <ul>
+      <li>
+        <p>Organized the third Critical Assessment of Functional Annotation (CAFA) challenge for the prediction of protein functions, with participants from 69 laboratories across the globe and hundreds of submissions.</p>
+      </li>
+      <li>
+        <p>Evaluated the performance the CAFA structured output predictions using precision-recall based metrics, and other analysis, such as similarity measures based on these predictions.</p>
+      </li>
+      <li>
+        <p>Developed a Python tool for precision-recall evaluation for structured-output prediction tasks.</p>
+      </li>
+    </ul>
+  </li>
+  <li><strong>2016- 2018</strong> Crowdsourcing image analysis for plant phenomics
+    <ul>
+      <li>Analyzed image labelling performance of different crowdsourced groups using Generalized Linear Mixed Effects model on SAS.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="intern-new-york-city-health-and-hospitals-corporation">Intern, New York City Health and Hospitals Corporation</h3>
+<ul>
+  <li><strong>2014- 2015</strong> Effects of Beta Blockers on hospital admission rates and cost
+    <ul>
+      <li>
+        <p>Analyzed the use of beta blockers in the health records of the New York City MetroPlus insurance population.</p>
+      </li>
+      <li>
+        <p>Applied a zero-inflated Poisson regression model for the effects of co-morbidities, socioeconomic factors on hospital admission rates using SAS</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="grader-columbia-university">Grader, Columbia University</h3>
+<ul>
+  <li><strong>2014</strong> STAT W1111, Introduction to Statistics</li>
+</ul>
+
+<div style="page-break-after: always;"></div>
+
+<h2 id="conference-presentations">Conference Presentations</h2>
+<ul>
+  <li>Exploring the 3D spatial dependency of gene expression using Markov Random Fields (Talk). <strong>Genome Informatics</strong>, Cold Spring Harbor, NY, USA, 2019</li>
+  <li>
+    <p>Using Markov Random Field to Model Gene Expression in the 3D Genome (Talk, Travel Fellowship). <strong>Great Lakes Bioinformatics</strong>, Madison, WI, USA, 2019.</p>
+  </li>
+  <li>
+    <p>Updates on CAFA3 and CAFA3.14 (Talk, Travel Fellowship). Using Markov Random Field to Model Gene Expression in the 3D Genome (Poster). <strong>Intelligent Systems for Molecular Biology (ISMB)</strong>, Chicago, IL, USA, 2018.</p>
+  </li>
+  <li>
+    <p>The Critical Assessment of Protein Function Annotation: Preliminary Assessment (Talk). <strong>Intelligent Systems for Molecular Biology (ISMB)/European Conference on Computational Biology (ECCB)</strong>, Prague, Czech Republic, 2017</p>
+  </li>
+  <li>
+    <p>The Critical Assessment of Protein Function Annotation: The Road Ahead (Talk, Travel Fellowship). <strong>Biocuration 2017</strong>, Stanford, CA, USA, 2017</p>
+  </li>
+  <li>
+    <p>The Critical Assessment of Protein Function Annotation— Improving on the “state-of-the-art” (Poster, Travel Fellowship). <strong>Biological Data Science</strong>, Cold Spring Harbor Laboratories, NY, USA, 2016.</p>
+  </li>
+  <li>Effects of Beta Blockers on Hospital Admission Rates and Cost (Talk). <strong>Joint Statistical Meeting</strong>, Seattle, WA, USA, 2015</li>
+</ul>
+
+<!--<div style="page-break-after: always;"></div>-->
+
+<h2 id="awards">Awards</h2>
+<ul>
+  <li>Lora and Russ Talbot Graduate Fellowship in Veterinary Medicine, College of Veterinary Medicine, Iowa State University, 2019</li>
+  <li>F. Wendell Miller Scholarship, Graduate College, Iowa State University, 2015- 2018</li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li>Reproducible research, statistical computing, hierarchical models, Markov random fields, Bayesian methods, Markov chain Monte Carlo, generalized linear models, data mining, machine learning, parallel computing, R package development</li>
+  <li>RNA-seq data analysis, HiC data analysis, Gene Ontology, Gene Ontology Annotations database</li>
+  <li>R, python, C, and shell scripting</li>
+  <li>Experience with OpenMP, SAS, Latex and Matlab</li>
+</ul>
+
+<h2 id="leadership">Leadership</h2>
+<ul>
+  <li>
+    <p>Senator, Graduate and Professional Students Senate, Iowa State University, 2017-2018</p>
+  </li>
+  <li>
+    <p>Director of Outreach, BCB Graduate Student Organization, Iowa State University, 2016-2017</p>
+  </li>
+  <li>
+    <p>Volunteer, MUMO Education and Orphanage Center, Nairobi, Republic of Kenya, 2011</p>
+  </li>
+</ul>
+:ET
